@@ -56,4 +56,6 @@ TaxoRankExpand is an automated taxonomy generation tool that leverages large lan
 
 MIT License
 
-### For more details, see the source code in the src/ directory.
+##
+
+For more details, see the source code in the src/ directory.
